@@ -160,14 +160,16 @@ Therefore, the above analyses meet all basic assumptions of linear regression an
 boxplot(mpg ~ am, xlab="Transmission (0 = Automatic, 1 = Manual)", ylab="MPG",
         main="Boxplot of MPG vs. Transmission")
 ```
-![](figures/unnamed-chunk-10-1.png)
+<img src="unnamed-chunk-10-1.png" width="200px" />
+
+
 2. Pair Graph of Motor Trend Car Road Tests  
 
 ```r
 pairs(mtcars, panel=panel.smooth, main="Pair Graph of Motor Trend Car Road Tests")
 ```
 
-![](figures/unnamed-chunk-11-1.png)
+<img src="unnamed-chunk-11-1.png" width="200px" />
 
 3. Scatter Plot of MPG vs. Weight by Transmission  
 
@@ -176,12 +178,13 @@ ggplot(mtcars, aes(x=wt, y=mpg, group=am, color=am, height=3, width=3)) + geom_p
 scale_colour_discrete(labels=c("Automatic", "Manual")) + 
 xlab("weight") + ggtitle("Scatter Plot of MPG vs. Weight by Transmission")
 ```
-![](figures/unnamed-chunk-12-1.png)
+<img src="unnamed-chunk-12-1.png" width="200px" />
+
 4. Residual Plots
 
 ```r
 par(mfrow = c(2, 2))
 plot(amIntWtModel)
 ```
-![](figures/unnamed-chunk-13-1.png)
+<img src="unnamed-chunk-13-1.png" width="200px" />
 
