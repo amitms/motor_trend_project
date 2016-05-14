@@ -161,14 +161,15 @@ boxplot(mpg ~ am, xlab="Transmission (0 = Automatic, 1 = Manual)", ylab="MPG",
         main="Boxplot of MPG vs. Transmission")
 ```
 
-![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10-1.png)  
+<p><a href="./figure/unnamed-chunk-10-1.png" alt="" style="max-width:100%;"></a></p>
+
 2. Pair Graph of Motor Trend Car Road Tests  
 
 ```r
 pairs(mtcars, panel=panel.smooth, main="Pair Graph of Motor Trend Car Road Tests")
 ```
+<p><a href="./figure/unnamed-chunk-11-1.png" alt="" style="max-width:100%;"></a></p>
 
-![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11-1.png)  
 3. Scatter Plot of MPG vs. Weight by Transmission  
 
 ```r
@@ -176,13 +177,12 @@ ggplot(mtcars, aes(x=wt, y=mpg, group=am, color=am, height=3, width=3)) + geom_p
 scale_colour_discrete(labels=c("Automatic", "Manual")) + 
 xlab("weight") + ggtitle("Scatter Plot of MPG vs. Weight by Transmission")
 ```
-
-![plot of chunk unnamed-chunk-12](figure/unnamed-chunk-12-1.png)  
+<p><a href="./figure/unnamed-chunk-12-1.png" alt="" style="max-width:100%;"></a></p>
 4. Residual Plots
 
 ```r
 par(mfrow = c(2, 2))
 plot(amIntWtModel)
 ```
+<p><a href="./figure/unnamed-chunk-13-1.png" alt="" style="max-width:100%;"></a></p>
 
-![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13-1.png) 
