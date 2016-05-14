@@ -23,7 +23,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>Coursera-Regression-Models/report.md at master · amit/Coursera-Regression-Models</title>
+    <title>Coursera-Regression-Models/report.md at master · Xiaodan/Coursera-Regression-Models</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -38,12 +38,12 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
     <meta property="fb:app_id" content="1401488693436528">
 
-      <meta content="https://avatars3.githubusercontent.com/u/1871047?v=3&amp;s=400" name="twitter:image:src" /><meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="amit/Coursera-Regression-Models" name="twitter:title" /><meta content="Coursera-Regression-Models - Repo for Coursera.com online course: Regression Models" name="twitter:description" />
-      <meta content="https://avatars3.githubusercontent.com/u/1871047?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="amit/Coursera-Regression-Models" property="og:title" /><meta content="https://github.com/amit/Coursera-Regression-Models" property="og:url" /><meta content="Coursera-Regression-Models - Repo for Coursera.com online course: Regression Models" property="og:description" />
+      <meta content="https://avatars3.githubusercontent.com/u/1871047?v=3&amp;s=400" name="twitter:image:src" /><meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="Xiaodan/Coursera-Regression-Models" name="twitter:title" /><meta content="Coursera-Regression-Models - Repo for Coursera.com online course: Regression Models" name="twitter:description" />
+      <meta content="https://avatars3.githubusercontent.com/u/1871047?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="Xiaodan/Coursera-Regression-Models" property="og:title" /><meta content="https://github.com/Xiaodan/Coursera-Regression-Models" property="og:url" /><meta content="Coursera-Regression-Models - Repo for Coursera.com online course: Regression Models" property="og:description" />
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MTc3MTk3MDU6ODE1NDkxMWIxOGIxOTMxNDY2NzRkZDA5NmE0MGVjNDc6NzM3OTc2NGE0ZDJlOWI2NTEwODU2ODJlZTlkNGE5NDQ4Njg3ZjAyOTA0YjkyZTRkYzhiOTdjYTI0YTMzZTdiMQ==--60a168ce222a24935a226a59b11a0c8ff096543a">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTc3MTk3MDU6ODE1NDkxMWIxOGIxOTMxNDY2NzRkZDA5NmE0MGVjNDc6MjMxNWJmMWYwMTlkNzU5YWY3MDEwOGI4ZGVmMjM4MTQ2NTc5NDNjNTZmMGRhOTVhYWVlMDliOTBiOTU4Njc2Mg==--f99994ccc6ccd555fdcff5ef89ca1c49ba889df2">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -55,7 +55,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="2D7598FD:2D07:EF6D38:57372A62" name="octolytics-dimension-request_id" /><meta content="17719705" name="octolytics-actor-id" /><meta content="amitms" name="octolytics-actor-login" /><meta content="07507176f04ad6aa35c9e48e07935c76d2eab5aa213f3a2a3eed4ca7fe4d17a5" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="2D7598FD:2D0A:250C30C:57372D5C" name="octolytics-dimension-request_id" /><meta content="17719705" name="octolytics-actor-id" /><meta content="amitms" name="octolytics-actor-login" /><meta content="07507176f04ad6aa35c9e48e07935c76d2eab5aa213f3a2a3eed4ca7fe4d17a5" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -68,7 +68,7 @@
     <meta name="user-login" content="amitms">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="OTg4MmE4NjRhYzIxZDBiY2JiOTk3NjQxNjc0YjUxYmJjMDUwNDZkNzhhN2UzMjg2NzVlY2MwZDdjNmZiYzhkMXx7InJlbW90ZV9hZGRyZXNzIjoiNDUuMTE3LjE1Mi4yNTMiLCJyZXF1ZXN0X2lkIjoiMkQ3NTk4RkQ6MkQwNzpFRjZEMzg6NTczNzJBNjIiLCJ0aW1lc3RhbXAiOjE0NjMyMzMxMjJ9">
+      <meta name="js-proxy-site-detection-payload" content="OWYwNzZmY2M5ZjdlZDM5Yjk2NDgxNTRjMGVkOGE0NTU2NDk1NzczMjdkNjdlMmY5YzUxOGE4YzVkYTAxYjJkNHx7InJlbW90ZV9hZGRyZXNzIjoiNDUuMTE3LjE1Mi4yNTMiLCJyZXF1ZXN0X2lkIjoiMkQ3NTk4RkQ6MkQwQToyNTBDMzBDOjU3MzcyRDVDIiwidGltZXN0YW1wIjoxNDYzMjMzODg1fQ==">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
@@ -81,13 +81,13 @@
 
       
   <meta name="description" content="Coursera-Regression-Models - Repo for Coursera.com online course: Regression Models">
-  <meta name="go-import" content="github.com/amit/Coursera-Regression-Models git https://github.com/amit/Coursera-Regression-Models.git">
+  <meta name="go-import" content="github.com/Xiaodan/Coursera-Regression-Models git https://github.com/Xiaodan/Coursera-Regression-Models.git">
 
-  <meta content="1871047" name="octolytics-dimension-user_id" /><meta content="amit" name="octolytics-dimension-user_login" /><meta content="22655652" name="octolytics-dimension-repository_id" /><meta content="amit/Coursera-Regression-Models" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="22655652" name="octolytics-dimension-repository_network_root_id" /><meta content="amit/Coursera-Regression-Models" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/amit/Coursera-Regression-Models/commits/master.atom" rel="alternate" title="Recent Commits to Coursera-Regression-Models:master" type="application/atom+xml">
+  <meta content="1871047" name="octolytics-dimension-user_id" /><meta content="Xiaodan" name="octolytics-dimension-user_login" /><meta content="22655652" name="octolytics-dimension-repository_id" /><meta content="Xiaodan/Coursera-Regression-Models" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="22655652" name="octolytics-dimension-repository_network_root_id" /><meta content="Xiaodan/Coursera-Regression-Models" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/Xiaodan/Coursera-Regression-Models/commits/master.atom" rel="alternate" title="Recent Commits to Coursera-Regression-Models:master" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/amit/Coursera-Regression-Models/blob/master/motor_trend_project/report.md" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/Xiaodan/Coursera-Regression-Models/blob/master/motor_trend_project/report.md" data-pjax-transient>
   </head>
 
 
@@ -110,7 +110,7 @@
 
 
         <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/amit/Coursera-Regression-Models/search" class="js-site-search-form" data-scoped-search-url="/amit/Coursera-Regression-Models/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/Coursera-Regression-Models/search" class="js-site-search-form" data-scoped-search-url="/Xiaodan/Coursera-Regression-Models/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
       <div class="header-search-scope">This repository</div>
       <input type="text"
@@ -176,9 +176,9 @@
 
   <div class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="amit/Coursera-Regression-Models">This repository</span>
+    <span title="Xiaodan/Coursera-Regression-Models">This repository</span>
   </div>
-    <a class="dropdown-item" href="/amit/Coursera-Regression-Models/issues/new" data-ga-click="Header, create new issue">
+    <a class="dropdown-item" href="/Xiaodan/Coursera-Regression-Models/issues/new" data-ga-click="Header, create new issue">
       New issue
     </a>
 
@@ -227,7 +227,7 @@
             Settings
           </a>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jTT1jOaXUPDGXwjXGbo9ItLqtHqgIIZE/wugZ4nFq1r+LY0hvOmKq6ZVu+p5P85WXU2P7rcFY/us0wFMP9Yw5g==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XB/9K3J3Q2XgtZclE2bvZgeX7z2PUxFi9NI2BzYo+zIevm+90IzePvfgwcczAoqAod6kP4tC6gG3uyL33+mftw==" /></div>
             <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
               Sign out
             </button>
@@ -264,10 +264,10 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="5JR3jlc1uN+XnWznXRHY6/vYYHMlntPNiFk8nok1p7/WjrbAb5+L3wEedJrdpH9ETTLbsFv64VYTslGro/p2FA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="22655652" />
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pD4/RBuqoO0ySMoKjcCEpVKoKjN3qwg+G39vQLcW53Frewi+qaedy9QK927B8Eyf8bw7Y96De7tXcYmjHL0c5Q==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="22655652" />
 
         <div class="select-menu js-menu-container js-select-menu">
-          <a href="/amit/Coursera-Regression-Models/subscription"
+          <a href="/Xiaodan/Coursera-Regression-Models/subscription"
             class="btn btn-sm btn-with-count select-menu-button js-menu-target" role="button" tabindex="0" aria-haspopup="true"
             data-ga-click="Repository, click Watch settings, action:blob#show">
             <span class="js-select-button">
@@ -275,7 +275,7 @@
               Watch
             </span>
           </a>
-          <a class="social-count js-social-count" href="/amit/Coursera-Regression-Models/watchers">
+          <a class="social-count js-social-count" href="/Xiaodan/Coursera-Regression-Models/watchers">
             2
           </a>
 
@@ -339,27 +339,27 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/amit/Coursera-Regression-Models/unstar" class="starred" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TyG2JysLGKGQTqP0YSYeVNpeRJLq9fx8r1sbXcNSD8Z8F6paC8nJwxvvghLKQHjMoiyr5UR1qySljlINMu0oJw==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/Coursera-Regression-Models/unstar" class="starred" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kCIGr8RGtaJfVGx9F90aSI/jjnVRw8VyeoNXqVO0pzjDeNMz7STETF6TJ7l04KG8EByrq242iL1J7Eox96Bd4g==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar amit/Coursera-Regression-Models"
+        aria-label="Unstar this repository" title="Unstar Xiaodan/Coursera-Regression-Models"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M14 6l-4.9-0.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14l4.33-2.33 4.33 2.33L10.4 9.26 14 6z"></path></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/amit/Coursera-Regression-Models/stargazers">
+        <a class="social-count js-social-count" href="/Xiaodan/Coursera-Regression-Models/stargazers">
           3
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/amit/Coursera-Regression-Models/star" class="unstarred" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rT3k1x8zuzQNmI9FszfKjv6SgWAzAMXQ9ILeDPHodflA6LHJlceaqng3zxbgcDk2QTT9OPArU77IY+jyRnabog==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/Coursera-Regression-Models/star" class="unstarred" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Z00NPIUGSHq4HiNQkzTHOKOpzBtQP3Pi0ScvBLlqy9+n1TapyrB+wlO8nwufo8IqB3smYv9etgq9PoJaGWrYiA==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star amit/Coursera-Regression-Models"
+        aria-label="Star this repository" title="Star Xiaodan/Coursera-Regression-Models"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M14 6l-4.9-0.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14l4.33-2.33 4.33 2.33L10.4 9.26 14 6z"></path></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/amit/Coursera-Regression-Models/stargazers">
+        <a class="social-count js-social-count" href="/Xiaodan/Coursera-Regression-Models/stargazers">
           3
         </a>
 </form>  </div>
@@ -367,18 +367,18 @@
   </li>
 
   <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/amit/Coursera-Regression-Models/fork" class="btn-with-count" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YUbzTdJtx3PrTM6dH5MYjzEcQX/dwdctuP2Gg8kUiNK9qypvz/79XYQPKgzepCdGbtOyTE+z2lPSGIwtV96LKg==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/Coursera-Regression-Models/fork" class="btn-with-count" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="BYqMJanUCOazbM7QvGHq9KSDax/1hE/OtzEKKYbLrCC2hAqjjdXfF4+XHRY2nwuM2onFmUnNqQHj7QrQRTqy9g==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of amit/Coursera-Regression-Models to your account"
-                aria-label="Fork your own copy of amit/Coursera-Regression-Models to your account">
+                title="Fork your own copy of Xiaodan/Coursera-Regression-Models to your account"
+                aria-label="Fork your own copy of Xiaodan/Coursera-Regression-Models to your account">
               <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path d="M8 1c-1.11 0-2 0.89-2 2 0 0.73 0.41 1.38 1 1.72v1.28L5 8 3 6v-1.28c0.59-0.34 1-0.98 1-1.72 0-1.11-0.89-2-2-2S0 1.89 0 3c0 0.73 0.41 1.38 1 1.72v1.78l3 3v1.78c-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72V9.5l3-3V4.72c0.59-0.34 1-0.98 1-1.72 0-1.11-0.89-2-2-2zM2 4.2c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z m3 10c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z m3-10c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z"></path></svg>
               Fork
             </button>
 </form>
-    <a href="/amit/Coursera-Regression-Models/network" class="social-count">
+    <a href="/Xiaodan/Coursera-Regression-Models/network" class="social-count">
       124
     </a>
   </li>
@@ -386,9 +386,9 @@
 
     <h1 class="entry-title public ">
   <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M4 9h-1v-1h1v1z m0-3h-1v1h1v-1z m0-2h-1v1h1v-1z m0-2h-1v1h1v-1z m8-1v12c0 0.55-0.45 1-1 1H6v2l-1.5-1.5-1.5 1.5V14H1c-0.55 0-1-0.45-1-1V1C0 0.45 0.45 0 1 0h10c0.55 0 1 0.45 1 1z m-1 10H1v2h2v-1h3v1h5V11z m0-10H2v9h9V1z"></path></svg>
-  <span class="author" itemprop="author"><a href="/amit" class="url fn" rel="author">amit</a></span><!--
+  <span class="author" itemprop="author"><a href="/Xiaodan" class="url fn" rel="author">Xiaodan</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a href="/amit/Coursera-Regression-Models" data-pjax="#js-repo-pjax-container">Coursera-Regression-Models</a></strong>
+--><strong itemprop="name"><a href="/Xiaodan/Coursera-Regression-Models" data-pjax="#js-repo-pjax-container">Coursera-Regression-Models</a></strong>
 
 </h1>
 
@@ -402,14 +402,14 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/amit/Coursera-Regression-Models" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /amit/Coursera-Regression-Models" itemprop="url">
+    <a href="/Xiaodan/Coursera-Regression-Models" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Xiaodan/Coursera-Regression-Models" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M9.5 3l-1.5 1.5 3.5 3.5L8 11.5l1.5 1.5 4.5-5L9.5 3zM4.5 3L0 8l4.5 5 1.5-1.5L2.5 8l3.5-3.5L4.5 3z"></path></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a href="/amit/Coursera-Regression-Models/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /amit/Coursera-Regression-Models/issues" itemprop="url">
+      <a href="/Xiaodan/Coursera-Regression-Models/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /Xiaodan/Coursera-Regression-Models/issues" itemprop="url">
         <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7S10.14 13.7 7 13.7 1.3 11.14 1.3 8s2.56-5.7 5.7-5.7m0-1.3C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7S10.86 1 7 1z m1 3H6v5h2V4z m0 6H6v2h2V10z"></path></svg>
         <span itemprop="name">Issues</span>
         <span class="counter">0</span>
@@ -417,23 +417,23 @@
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/amit/Coursera-Regression-Models/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /amit/Coursera-Regression-Models/pulls" itemprop="url">
+    <a href="/Xiaodan/Coursera-Regression-Models/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /Xiaodan/Coursera-Regression-Models/pulls" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M11 11.28c0-1.73 0-6.28 0-6.28-0.03-0.78-0.34-1.47-0.94-2.06s-1.28-0.91-2.06-0.94c0 0-1.02 0-1 0V0L4 3l3 3V4h1c0.27 0.02 0.48 0.11 0.69 0.31s0.3 0.42 0.31 0.69v6.28c-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72z m-1 2.92c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2zM4 3c0-1.11-0.89-2-2-2S0 1.89 0 3c0 0.73 0.41 1.38 1 1.72 0 1.55 0 5.56 0 6.56-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72V4.72c0.59-0.34 1-0.98 1-1.72z m-0.8 10c0 0.66-0.55 1.2-1.2 1.2s-1.2-0.55-1.2-1.2 0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2z m-1.2-8.8c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z"></path></svg>
       <span itemprop="name">Pull requests</span>
       <span class="counter">0</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
-    <a href="/amit/Coursera-Regression-Models/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /amit/Coursera-Regression-Models/wiki">
+    <a href="/Xiaodan/Coursera-Regression-Models/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /Xiaodan/Coursera-Regression-Models/wiki">
       <svg aria-hidden="true" class="octicon octicon-book" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M2 5h4v1H2v-1z m0 3h4v-1H2v1z m0 2h4v-1H2v1z m11-5H9v1h4v-1z m0 2H9v1h4v-1z m0 2H9v1h4v-1z m2-6v9c0 0.55-0.45 1-1 1H8.5l-1 1-1-1H1c-0.55 0-1-0.45-1-1V3c0-0.55 0.45-1 1-1h5.5l1 1 1-1h5.5c0.55 0 1 0.45 1 1z m-8 0.5l-0.5-0.5H1v9h6V3.5z m7-0.5H8.5l-0.5 0.5v8.5h6V3z"></path></svg>
       Wiki
 </a>
 
-  <a href="/amit/Coursera-Regression-Models/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="pulse /amit/Coursera-Regression-Models/pulse">
+  <a href="/Xiaodan/Coursera-Regression-Models/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="pulse /Xiaodan/Coursera-Regression-Models/pulse">
     <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0V10h3.6L4.5 8.2l0.9 5.4L9 8.5l1.6 1.5H14V8H11.5z"></path></svg>
     Pulse
 </a>
-  <a href="/amit/Coursera-Regression-Models/graphs" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors /amit/Coursera-Regression-Models/graphs">
+  <a href="/Xiaodan/Coursera-Regression-Models/graphs" class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors /Xiaodan/Coursera-Regression-Models/graphs">
     <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M16 14v1H0V0h1v14h15z m-11-1H3V8h2v5z m4 0H7V3h2v10z m4 0H11V6h2v7z"></path></svg>
     Graphs
 </a>
@@ -448,7 +448,7 @@
 
     
 
-<a href="/amit/Coursera-Regression-Models/blob/cee856c81e56fee907e126f2b18f7be031bfc387/motor_trend_project/report.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/Xiaodan/Coursera-Regression-Models/blob/cee856c81e56fee907e126f2b18f7be031bfc387/motor_trend_project/report.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:889fdeb2dee3c83a4dafcfe64b9b7ae2 -->
 
@@ -492,7 +492,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/amit/Coursera-Regression-Models/blob/master/motor_trend_project/report.md"
+               href="/Xiaodan/Coursera-Regression-Models/blob/master/motor_trend_project/report.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -520,7 +520,7 @@
 </div>
 
   <div class="btn-group right">
-    <a href="/amit/Coursera-Regression-Models/find/master"
+    <a href="/Xiaodan/Coursera-Regression-Models/find/master"
           class="js-pjax-capture-input btn btn-sm"
           data-pjax
           data-hotkey="t">
@@ -529,22 +529,22 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/amit/Coursera-Regression-Models"><span>Coursera-Regression-Models</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/amit/Coursera-Regression-Models/tree/master/motor_trend_project"><span>motor_trend_project</span></a></span><span class="separator">/</span><strong class="final-path">report.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/Xiaodan/Coursera-Regression-Models"><span>Coursera-Regression-Models</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/Xiaodan/Coursera-Regression-Models/tree/master/motor_trend_project"><span>motor_trend_project</span></a></span><span class="separator">/</span><strong class="final-path">report.md</strong>
   </div>
 </div>
 
 
   <div class="commit-tease">
       <span class="right">
-        <a class="commit-tease-sha" href="/amit/Coursera-Regression-Models/commit/72e0d2014a10890d2c97425bd8ccd6d8751878c3" data-pjax>
+        <a class="commit-tease-sha" href="/Xiaodan/Coursera-Regression-Models/commit/72e0d2014a10890d2c97425bd8ccd6d8751878c3" data-pjax>
           72e0d20
         </a>
         <relative-time datetime="2015-01-25T17:04:49Z">Jan 25, 2015</relative-time>
       </span>
       <div>
-        <img alt="@amit" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/1871047?v=3&amp;s=40" width="20" />
-        <a href="/amit" class="user-mention" rel="author">amit</a>
-          <a href="/amit/Coursera-Regression-Models/commit/72e0d2014a10890d2c97425bd8ccd6d8751878c3" class="message" data-pjax="true" title="Update report.md">Update report.md</a>
+        <img alt="@Xiaodan" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/1871047?v=3&amp;s=40" width="20" />
+        <a href="/Xiaodan" class="user-mention" rel="author">Xiaodan</a>
+          <a href="/Xiaodan/Coursera-Regression-Models/commit/72e0d2014a10890d2c97425bd8ccd6d8751878c3" class="message" data-pjax="true" title="Update report.md">Update report.md</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -559,8 +559,8 @@
       <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list" data-facebox-id="facebox-description">
           <li class="facebox-user-list-item">
-            <img alt="@amit" height="24" src="https://avatars1.githubusercontent.com/u/1871047?v=3&amp;s=48" width="24" />
-            <a href="/amit">amit</a>
+            <img alt="@Xiaodan" height="24" src="https://avatars1.githubusercontent.com/u/1871047?v=3&amp;s=48" width="24" />
+            <a href="/Xiaodan">Xiaodan</a>
           </li>
       </ul>
     </div>
@@ -571,9 +571,9 @@
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/amit/Coursera-Regression-Models/raw/master/motor_trend_project/report.md" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/amit/Coursera-Regression-Models/blame/master/motor_trend_project/report.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/amit/Coursera-Regression-Models/commits/master/motor_trend_project/report.md" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/Xiaodan/Coursera-Regression-Models/raw/master/motor_trend_project/report.md" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/Xiaodan/Coursera-Regression-Models/blame/master/motor_trend_project/report.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/Xiaodan/Coursera-Regression-Models/commits/master/motor_trend_project/report.md" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -583,12 +583,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15 2H1c-0.55 0-1 0.45-1 1v9c0 0.55 0.45 1 1 1h5.34c-0.25 0.61-0.86 1.39-2.34 2h8c-1.48-0.61-2.09-1.39-2.34-2h5.34c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1z m0 9H1V3h14v8z"></path></svg>
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/amit/Coursera-Regression-Models/edit/master/motor_trend_project/report.md" class="inline-form js-update-url-with-hash" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="eMVo4bL7383iAHKuWdZhhZzNPYWi8EsYfyW81ydzg7vwM6igxmdEzJLZvt8Je9r1EYICGIJQwAoEdeLJyFFxmw==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/Coursera-Regression-Models/edit/master/motor_trend_project/report.md" class="inline-form js-update-url-with-hash" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M0B9tRCWucYycSqgcUlPk+rDPg6lh0LpDIwxppOkaKOVSvcARAS3W42RE0pNBfxULF3W7IanvpSPxBkSzXvXgQ==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M0 12v3h3l8-8-3-3L0 12z m3 2H1V12h1v1h1v1z m10.3-9.3l-1.3 1.3-3-3 1.3-1.3c0.39-0.39 1.02-0.39 1.41 0l1.59 1.59c0.39 0.39 0.39 1.02 0 1.41z"></path></svg>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/amit/Coursera-Regression-Models/delete/master/motor_trend_project/report.md" class="inline-form" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="aXLvZ24ikG+6c6/ViZWPuTpO3qyaM6WfIfaEpo9zztNTJAq3kj3bKIyP/wLunM7qc/E5fNfLcKE9KLOpwTEo6A==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/Coursera-Regression-Models/delete/master/motor_trend_project/report.md" class="inline-form" data-form-nonce="4c050b4aaa53c8df46c85c43a0662326c5da8d7a" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Ldt0wVHVmOghVq8TXUVLgPgqbNcHXmIQ+IfGlMMU9jS7yz/oUDb5ybeS+Qh7XkyK00ZNRNkRej/y8ZKxDeWHNQ==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M10 2H8c0-0.55-0.45-1-1-1H4c-0.55 0-1 0.45-1 1H1c-0.55 0-1 0.45-1 1v1c0 0.55 0.45 1 1 1v9c0 0.55 0.45 1 1 1h7c0.55 0 1-0.45 1-1V5c0.55 0 1-0.45 1-1v-1c0-0.55-0.45-1-1-1z m-1 12H2V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9z m1-10H1v-1h9v1z"></path></svg>
@@ -618,7 +618,7 @@
   <tr>
   <td><div>Regression Models Project - Motor Trend Data Analysis Report</div></td>
 
-  <td><div>by amit (Sally) Zhang</div></td>
+  <td><div>by Xiaodan (Sally) Zhang</div></td>
 
   <td><div><table>
   <thead>
@@ -789,25 +789,25 @@ confint(<span class="pl-smi">amIntWtModel</span>) <span class="pl-c"># results h
 <div class="highlight highlight-source-r"><pre>boxplot(<span class="pl-smi">mpg</span> <span class="pl-k">~</span> <span class="pl-smi">am</span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Transmission (0 = Automatic, 1 = Manual)<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>MPG<span class="pl-pds">"</span></span>,
         <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Boxplot of MPG vs. Transmission<span class="pl-pds">"</span></span>)</pre></div>
 
-<p><a href="/amit/Coursera-Regression-Models/blob/master/motor_trend_project/figure/unnamed-chunk-10-1.png" target="_blank"><img src="/amit/Coursera-Regression-Models/raw/master/motor_trend_project/figure/unnamed-chunk-10-1.png" alt="plot of chunk unnamed-chunk-10" style="max-width:100%;"></a><br>
+<p><a href="/Xiaodan/Coursera-Regression-Models/blob/master/motor_trend_project/figure/unnamed-chunk-10-1.png" target="_blank"><img src="/Xiaodan/Coursera-Regression-Models/raw/master/motor_trend_project/figure/unnamed-chunk-10-1.png" alt="plot of chunk unnamed-chunk-10" style="max-width:100%;"></a><br>
 2. Pair Graph of Motor Trend Car Road Tests  </p>
 
 <div class="highlight highlight-source-r"><pre>pairs(<span class="pl-smi">mtcars</span>, <span class="pl-v">panel</span><span class="pl-k">=</span><span class="pl-smi">panel.smooth</span>, <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Pair Graph of Motor Trend Car Road Tests<span class="pl-pds">"</span></span>)</pre></div>
 
-<p><a href="/amit/Coursera-Regression-Models/blob/master/motor_trend_project/figure/unnamed-chunk-11-1.png" target="_blank"><img src="/amit/Coursera-Regression-Models/raw/master/motor_trend_project/figure/unnamed-chunk-11-1.png" alt="plot of chunk unnamed-chunk-11" style="max-width:100%;"></a><br>
+<p><a href="/Xiaodan/Coursera-Regression-Models/blob/master/motor_trend_project/figure/unnamed-chunk-11-1.png" target="_blank"><img src="/Xiaodan/Coursera-Regression-Models/raw/master/motor_trend_project/figure/unnamed-chunk-11-1.png" alt="plot of chunk unnamed-chunk-11" style="max-width:100%;"></a><br>
 3. Scatter Plot of MPG vs. Weight by Transmission  </p>
 
 <div class="highlight highlight-source-r"><pre>ggplot(<span class="pl-smi">mtcars</span>, aes(<span class="pl-v">x</span><span class="pl-k">=</span><span class="pl-smi">wt</span>, <span class="pl-v">y</span><span class="pl-k">=</span><span class="pl-smi">mpg</span>, <span class="pl-v">group</span><span class="pl-k">=</span><span class="pl-smi">am</span>, <span class="pl-v">color</span><span class="pl-k">=</span><span class="pl-smi">am</span>, <span class="pl-v">height</span><span class="pl-k">=</span><span class="pl-c1">3</span>, <span class="pl-v">width</span><span class="pl-k">=</span><span class="pl-c1">3</span>)) <span class="pl-k">+</span> geom_point() <span class="pl-k">+</span>  
 scale_colour_discrete(<span class="pl-v">labels</span><span class="pl-k">=</span>c(<span class="pl-s"><span class="pl-pds">"</span>Automatic<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Manual<span class="pl-pds">"</span></span>)) <span class="pl-k">+</span> 
 xlab(<span class="pl-s"><span class="pl-pds">"</span>weight<span class="pl-pds">"</span></span>) <span class="pl-k">+</span> ggtitle(<span class="pl-s"><span class="pl-pds">"</span>Scatter Plot of MPG vs. Weight by Transmission<span class="pl-pds">"</span></span>)</pre></div>
 
-<p><a href="/amit/Coursera-Regression-Models/blob/master/motor_trend_project/figure/unnamed-chunk-12-1.png" target="_blank"><img src="/amit/Coursera-Regression-Models/raw/master/motor_trend_project/figure/unnamed-chunk-12-1.png" alt="plot of chunk unnamed-chunk-12" style="max-width:100%;"></a><br>
+<p><a href="/Xiaodan/Coursera-Regression-Models/blob/master/motor_trend_project/figure/unnamed-chunk-12-1.png" target="_blank"><img src="/Xiaodan/Coursera-Regression-Models/raw/master/motor_trend_project/figure/unnamed-chunk-12-1.png" alt="plot of chunk unnamed-chunk-12" style="max-width:100%;"></a><br>
 4. Residual Plots</p>
 
 <div class="highlight highlight-source-r"><pre>par(<span class="pl-v">mfrow</span> <span class="pl-k">=</span> c(<span class="pl-c1">2</span>, <span class="pl-c1">2</span>))
 plot(<span class="pl-smi">amIntWtModel</span>)</pre></div>
 
-<p><a href="/amit/Coursera-Regression-Models/blob/master/motor_trend_project/figure/unnamed-chunk-13-1.png" target="_blank"><img src="/amit/Coursera-Regression-Models/raw/master/motor_trend_project/figure/unnamed-chunk-13-1.png" alt="plot of chunk unnamed-chunk-13" style="max-width:100%;"></a> </p>
+<p><a href="/Xiaodan/Coursera-Regression-Models/blob/master/motor_trend_project/figure/unnamed-chunk-13-1.png" target="_blank"><img src="/Xiaodan/Coursera-Regression-Models/raw/master/motor_trend_project/figure/unnamed-chunk-13-1.png" alt="plot of chunk unnamed-chunk-13" style="max-width:100%;"></a> </p>
 </article>
   </div>
 
@@ -846,7 +846,7 @@ plot(<span class="pl-smi">amIntWtModel</span>)</pre></div>
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27 0.68 0 1.36 0.09 2 0.27 1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38C13.71 14.53 16 11.53 16 8 16 3.58 12.42 0 8 0z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.07745s from github-fe151-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.12358s from github-fe125-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
